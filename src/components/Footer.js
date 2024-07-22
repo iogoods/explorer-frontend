@@ -6,15 +6,15 @@ const Footer = () => {
           <div className="footer-section-title">Learn More</div>
           <a
             className="one-footer-info"
-            href="https://3dpass.org/features.html"
+            href="https://iogoods.de/"
             target="_blank"
             rel="noreferrer"
           >
-            3DPass Features
+            IO Features
           </a>
           <a
             className="one-footer-info"
-            href="https://3dpass.org/community.html"
+            href="https://iogoods.de/"
             target="_blank"
             rel="noreferrer"
           >
@@ -22,15 +22,15 @@ const Footer = () => {
           </a>
           <a
             className="one-footer-info"
-            href="https://3dpass.org/3dpass_coin.html"
+            href="https://iogoods.de/coin/"
             target="_blank"
             rel="noreferrer"
           >
-            3DPass Coin
+            IO Coin
           </a>
 <a
             className="one-footer-info"
-            href="https://prod-api.3dpass.org:4000/api-docs/"
+            href="https://prod-api.iogoods.de:4000/api-docs/"
             target="_blank"
             rel="noreferrer"
           >
@@ -41,15 +41,15 @@ const Footer = () => {
           <div className="footer-section-title">Follow our News</div>
           <a
             className="one-footer-info"
-            href="https://3dpass.org/news.html"
+            href="https://iogoods.de/"
             target="_blank"
             rel="noreferrer"
           >
-            Last 3DPass News
+            Last IO News
           </a>
           <a
             className="one-footer-info"
-            href="https://discord.gg/u24WkXcwug"
+            href="https://discord.gg/"
             target="_blank"
             rel="noreferrer"
           >
@@ -57,7 +57,7 @@ const Footer = () => {
           </a>
           <a
             className="one-footer-info"
-            href="https://t.me/pass3d"
+            href="https://t.me/"
             target="_blank"
             rel="noreferrer"
           >
@@ -67,7 +67,7 @@ const Footer = () => {
         <div className="one-footer-section">
           <div className="footer-section-title">Keep updated</div>
           <a
-            href="https://twitter.com/3dpass1"
+            href="https://twitter.com/iogoods"
             target="_blank"
             rel="noreferrer"
             className="social-icon twitter-icon"
@@ -76,7 +76,7 @@ const Footer = () => {
             {" "}
           </a>
           <a
-            href="https://github.com/3Dpass/explorer-frontend"
+            href="https://github.com/iogoods/explorer-frontend"
             target="_blank"
             rel="noreferrer"
             className="social-icon github-icon"
@@ -85,7 +85,7 @@ const Footer = () => {
             {" "}
           </a>
           <a
-            href="mailto:partnership@3dpass.org"
+            href="mailto:service@iogoods.de"
             target="_blank"
             rel="noreferrer"
             className="social-icon email-icon"
