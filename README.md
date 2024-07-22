@@ -1,14 +1,14 @@
 # IO Block Explorer - frontend
-[IO Block Explorer](https://3dpscan.io/) represents a hight performance Web3 blockchain explorer client for [The Ledger of Things](https://github.com/IO), which  might be used either for [IO](https://IO.org) or any blockchain network based on [Substrate](https://substrate.io/). In order to fetch the blockchain data the app connects to [3DPscan Explorer API](https://github.com/IO/explorer-api) backend server directly from user's web browser. 
+[IO Block Explorer](https://iogoods.de/) represents a hight performance Web3 blockchain explorer client for [The Ledger of Things](https://github.com/iogoods/), which  might be used either for [IO](https://iogoods.de) or any blockchain network based on [Substrate](https://substrate.io/). In order to fetch the blockchain data the app connects to [3DPscan Explorer API](https://github.com/IO/explorer-api) backend server directly from user's web browser. 
 
-Block Explorer web page: [https://3dpscan.io/](https://3dpscan.io/)
+Block Explorer web page: [https://ioscan.de/](https://iogoods.de/)
 
 Features: 
 - Blocks, Extrinsics, Events in detail
 - Network summary dashboard
 - Search bar
 
-<img width="1099" alt="block_explorer_screenshot" src="https://user-images.githubusercontent.com/107915078/200135820-c1efb987-ee33-4e96-b329-6f8f15e6cffe.png">
+
 
 ## Available Scripts
 
@@ -21,6 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npm start permanently`
+nohup sh -c 'PORT=4000 npm start' &
+###
 
 ### `npm test`
 
@@ -81,4 +85,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This project is licensed under the MIT License
 
-Copyright (C) 2022 IO https://IO.org/
+Copyright (C) 2022 IO https://iogoods.de/
